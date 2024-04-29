@@ -1,7 +1,7 @@
 # E-Commerce-Data-Analysis
 This Python script is designed to analyze an e-commerce dataset containing information about fashion products. The analysis includes data visualization, text classification, and additional text analysis.
 
-##Dataset Information
+## Dataset Information
 
 The dataset is loaded from a JSON file named 'fashion_products_dataset.json'.
 Basic information about the dataset is displayed using df.info().
